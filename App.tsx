@@ -170,7 +170,7 @@ const App: React.FC = () => {
                 <span className="italic text-[#b8860b] normal-case mr-3 font-medium">
                   The
                 </span>
-                RUBI <span className="text-maroon">QUEEN</span>
+                <span className="text-maroon">QUEEN</span> RUBI
               </h1>
               <p className="text-[11px] uppercase tracking-[0.8em] font-bold text-slate-400 mt-4 pl-2">
                 TASSEL HOUSE LAHORE

@@ -168,9 +168,9 @@ const App: React.FC = () => {
               </div>
               <h1 className="text-4xl md:text-6xl font-bold tracking-[0.05em] text-slate-900 serif leading-none uppercase">
                 <span className="italic text-[#b8860b] normal-case mr-3 font-medium">
-                  The
+                  Tassel Desgin by
                 </span>
-                <span className="text-maroon">QUEEN</span> RUBI
+                <span className="text-maroon">RUBI</span>
               </h1>
               <p className="text-[11px] uppercase tracking-[0.8em] font-bold text-slate-400 mt-4 pl-2">
                 TASSEL HOUSE LAHORE
